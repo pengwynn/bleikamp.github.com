@@ -1,37 +1,15 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Ben Bleikamp</title>
-  <link rel="stylesheet" href="style.css">
-  <script type="text/javascript" src="//use.typekit.net/sng3dmb.js"></script>
-  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-</head>
-<body>
-  <div class="container">
-    <header class="clearfix">
-      <h1>Ben Bleikamp</h1>
-    </header>
-    <article class="post">
-      <div class="post-content">
-        <h2>The power <small>of</small> vulnerability</h2>
-        <p>One of my favorite TED videos, ever. Experiencing vulnerability is also what
-          allows us to relate to others and experience love, joy, and happiness.</p>
-        <p>Now that we know who you are, I know who I am. I'm not a mistake! It all makes sense! In a comic, you know how you can tell who the arch-villain's going to be? He's the exact opposite of the hero. And most times they're friends, like you and me! I should've known way back when... You know why, David? Because of the kids. They called me Mr Glass.</p>
-        <p>Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends.</p>
-      </div>
-      <div class="post-meta">
-        <p>29 Aug 2012</p>
-      </div>
-    </article>
-    <article class="post">
-      <div class="post-content">
-        <h2>The browser isn't ready</h2>
-        <p>Easel.io is a design tool in the browser. But why? What about being in a browser makes a design tool better?</p>
-      </div>
-      <div class="post-meta">
-        <p>29 Aug 2012</p>
-      </div>
-    </article>
+---
+layout: default
+---
+
+{% for post in site.posts %}
+<article class="post">
+  <div class="post-content">
+    <h2><a href="{{post.url}}">{{ post.title }}</a></h2>
+    {{ post.content }}
   </div>
-</body>
-</html>
+  <div class="post-meta">
+    <p>{{ post.date | date: "%d %h %Y" }}</p>
+  </div>
+</article>
+{% endfor %}
