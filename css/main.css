@@ -32,6 +32,12 @@ header h1 {
   background: url("../images/logo.png");
 }
 
+header h1 a {
+  display: block;
+  height: 214px;
+  width: 103px;
+}
+
 nav {
   float: right;
 }
