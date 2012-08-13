@@ -4,7 +4,7 @@
 }
 
 body {
-  /*background: url("images/grid.png") top center repeat-y;*/
+  background: url("../images/grid.png") top center repeat-y;
   font-size: 16px;
   line-height: 1.5;
   font-family: "ff-meta-web-pro-1","ff-meta-web-pro-2";
@@ -204,7 +204,7 @@ img {
 }
 
 iframe {
-  margin: 0 0 13px 0;
+  margin: 0 0 24px 0;
   padding: 0;
 }
 
