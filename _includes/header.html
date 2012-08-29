@@ -2,7 +2,13 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>Ben Bleikamp</title>
+  <title>
+    {% if page.title %}
+      {{ page.title }} &mdash; Bleikamp.com
+    {% else %}
+      Ben Bleikamp: Internet creator
+    {% endif %}
+  </title>
   <link rel="stylesheet" href="/css/main.css">
   <script type="text/javascript" src="//use.typekit.net/sng3dmb.js"></script>
   <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
