@@ -1,7 +1,9 @@
 ---
-layout: post
+layout: page
 title: Ben Bleikamp
 ---
+
+<img src="/images/ben.png" class="pull-right">
 
 I'm a designer in San Francisco, CA. I grew up in Ohio. I currently build things with the brilliant people of [GitHub](http://www.github.com).
 

@@ -202,6 +202,18 @@ img {
   line-height: 1;
 }
 
+.pull-left {
+  float: left;
+  margin-left: -80px;
+  margin-right: 20px;
+}
+
+.pull-right {
+  float: right;
+  margin-right: -80px;
+  margin-left: 20px;
+}
+
 iframe {
   margin: 0 0 24px 0;
   padding: 0;
@@ -217,7 +229,7 @@ iframe {
 }
 
 /* Pygments */
-*------------------------------------------------------------------------------
+/*------------------------------------------------------------------------------
   @group Default Pygments Styles
 ------------------------------------------------------------------------------*/
 
