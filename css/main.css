@@ -104,6 +104,7 @@ h1 {
   font-family: "futura-pt-1", "futura-pt-2";
   font-size: 40px;
   font-weight: bold;
+  letter-spacing: 0.05em;
   line-height: 48px;
   text-transform: uppercase;
 }
@@ -116,7 +117,7 @@ h2 {
   font-family: "futura-pt-1","futura-pt-2";
   font-size: 24px;
   font-weight: 700;
-  letter-spacing: -0.05em;
+  letter-spacing: 0.05em;
   line-height: 1;
   text-transform: uppercase;
   -webkit-font-smoothing: antialiased;
