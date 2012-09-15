@@ -99,6 +99,22 @@ nav a:hover {
   color: #ddd;
 }
 
+.link {
+  margin: 0 0 36px 0;
+  padding: 0 0 12px 0;
+  border-bottom: 1px solid #f1f1f1;
+}
+
+.link h3:before {
+  position: relative;
+  top: 3px;
+  content: '∞';
+  font-size: 24px;
+  margin: 0 0 0 -40px;
+  padding: 0 20px 0 0;
+  color: #e0e0e0;
+}
+
 h1 {
   margin: 0 0 24px 0;
   font-family: "futura-pt-1", "futura-pt-2";
@@ -147,6 +163,9 @@ h3 {
   line-height: 1.5;
   text-transform: uppercase;
 }
+
+h3 a, h3 a:visited { color: #222; }
+h3 a:hover { color: #55d08f; }
 
 h4 {
   margin: 12px 0 12px 80px;
