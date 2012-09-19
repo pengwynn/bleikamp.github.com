@@ -115,6 +115,15 @@ nav a:hover {
   color: #e0e0e0;
 }
 
+#footer {
+  text-align: center;
+  clear: both;
+  margin: 48px 0 48px 0;
+  padding: 48px 0 0 0;
+}
+
+#footer p { color: #999; }
+
 h1 {
   margin: 0 0 24px 0;
   font-family: "futura-pt-1", "futura-pt-2";
