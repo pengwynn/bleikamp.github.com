@@ -2,6 +2,7 @@
 type: link
 title: A Philosophy of Restraint
 link: http://vimeo.com/48518757
+layout: post
 ---
 
 <iframe src="http://player.vimeo.com/video/48518757" width="620" height="360" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
