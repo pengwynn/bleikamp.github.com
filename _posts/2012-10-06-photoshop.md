@@ -14,6 +14,6 @@ I tried about ten times to explain the process concisely. Then I remembered it's
 <iframe src="http://player.vimeo.com/video/50943994" width="620" height="348" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 <span class="pull-left">**ProTip™**</span>
-You can also use the Power of CSS3 to do this with iOS, Android, and native UI elements, too.
+You can use the Power of CSS3 to do this with iOS, Android, and native UI elements, too.
 
 The music in the video is by [Dauwd](http://soundcloud.com/dauwd/ikopol1).
