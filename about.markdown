@@ -15,4 +15,4 @@ I was a designer at [Bleacher Report](http://bleacherreport.com) and a Product M
 
 I am @bleikamp on [Twitter](http://twitter.com/bleikamp), [GitHub](http://github.com/bleikamp), and [Dribbble](http://dribbble.com/bleikamp).
 
-If you prefer email: [hi@bleikamp.com](mailto:hi@bleikamp.com).
+If you prefer email: [ben@bleikamp.com](mailto:ben@bleikamp.com).
