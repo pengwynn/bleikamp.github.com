@@ -13,6 +13,6 @@ I was a designer at [Bleacher Report](http://bleacherreport.com) and a Product M
 
 <h3>Say Hello</h3>
 
-I am @bleikamp on [Twitter](http://twitter.com/bleikamp), [GitHub](http://github.com), and [Dribbble](http://dribbble.com].
+I am @bleikamp on [Twitter](http://twitter.com/bleikamp), [GitHub](http://github.com/bleikamp), and [Dribbble](http://dribbble.com/bleikamp).
 
 If you prefer email: [hi@bleikamp.com](mailto:hi@bleikamp.com).
