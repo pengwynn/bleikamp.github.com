@@ -1,3 +1,6 @@
+name: Ben Bleikamp
+description: Ben Bleikamp's blog
+url: http://bleikamp.com
 markdown: rdiscount
 pygments: true
 permalink: /posts/:title
